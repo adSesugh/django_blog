@@ -19,3 +19,4 @@
 ##### Task Completed
 -   [x] Create blog project structure
 -   [x] Create an app (posts)
+-   [x] CRUD post app
